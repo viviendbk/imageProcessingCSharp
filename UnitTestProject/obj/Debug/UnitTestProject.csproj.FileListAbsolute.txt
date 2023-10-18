@@ -1,0 +1,24 @@
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\projet info.exe
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\projet info.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\projet info.exe.config
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\UnitTestProject\obj\Debug\UnitTestProject.pdb

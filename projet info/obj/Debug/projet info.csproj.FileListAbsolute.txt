@@ -1,0 +1,23 @@
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.csproj.CoreCompileInputs.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\projet info.exe.config
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\projet info.exe
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\projet info.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.exe
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.pdb
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.csproj.AssemblyReference.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.csproj.SuggestedBindingRedirects.cache
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.exe.config
+C:\Users\vivsd\OneDrive\Documents\A2 Semestre 2\problème info\projet info\projet info\obj\Debug\projet info.csproj.CopyComplete
